@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* body{
+    background-image: url('./images/photo-1561112079-2c3226d9c559.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+
+} */
+.head{
+    width: 800px;
+    background-color: rgb(169, 76, 223);
+    margin: auto;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 15px 15px 15px 15px;
+}
+input{
+    display: block;
+}
+.main{
+    background-color: aliceblue;
+    width: 800px;
+    height: 300px;
+    margin:auto;
+}
+.btn{
+    border-radius: 3px;
+    padding: 2px 2px;
+    border: none;
+    background-color: cornflowerblue;
+}
+
+
+
